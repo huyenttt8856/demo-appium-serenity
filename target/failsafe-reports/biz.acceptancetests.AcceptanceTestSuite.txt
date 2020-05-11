@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: biz.acceptancetests.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.724 s <<< FAILURE! - in biz.acceptancetests.AcceptanceTestSuite
+User login to app  Time elapsed: 7.113 s  <<< FAILURE!
+net.thucydides.core.pages.WrongPageError: 
+The page object class biz.common.CommonPageObject looks dodgy:
+Failed to instantiate page (net.thucydides.core.webdriver.DriverConfigurationError: Could not instantiate class io.appium.java_client.AppiumDriver)
+

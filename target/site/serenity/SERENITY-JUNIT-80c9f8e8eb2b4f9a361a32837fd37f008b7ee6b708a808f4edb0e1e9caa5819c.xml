@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Login to app doulingo" skipped="0" tests="1" time="35.19" timestamp="2020-05-08 03:46:15"><testcase name="User login to app"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-4IP37R9', ip: '10.1.19.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: , appActivity: com.duolingo.app.LoginActivity, appPackage: com.duolingo, automationName: UiAutomator2, databaseEnabled: false, desired: {app: , appActivity: com.duolingo.app.LoginActivity, appPackage: com.duolingo, automationName: UiAutomator2, deviceName: SM-A205F, hub: http://0.0.0.0:4723/wd/hub, loggingPrefs: {}, platformName: android, platformVersion: 10, udid: R58M56TTK4Z}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A205F, deviceName: R58M56TTK4Z, deviceScreenDensity: 280, deviceScreenSize: 720x1560, deviceUDID: R58M56TTK4Z, hub: http://0.0.0.0:4723/wd/hub, javascriptEnabled: true, locationContextEnabled: false, loggingPrefs: org.openqa.selenium.logging..., networkConnectionEnabled: true, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 53, takesScreenshot: true, udid: R58M56TTK4Z, viewportRect: {height: 1370, left: 0, top: 53, width: 720}, warnings: {}, webStorageEnabled: false}&#10;Session ID: 7078f8bc-df49-4060-b6fa-269d91717de3&#10;*** Element info: {Using=id, value=com.duolingo:id/homeMessageSecondaryButton}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-4IP37R9', ip: '10.1.19.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4IP37R9', ip: '10.1.19.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: , appActivity: com.duolingo.app.LoginActivity, appPackage: com.duolingo, automationName: UiAutomator2, databaseEnabled: false, desired: {app: , appActivity: com.duolingo.app.LoginActivity, appPackage: com.duolingo, automationName: UiAutomator2, deviceName: SM-A205F, hub: http://0.0.0.0:4723/wd/hub, loggingPrefs: {}, platformName: android, platformVersion: 10, udid: R58M56TTK4Z}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A205F, deviceName: R58M56TTK4Z, deviceScreenDensity: 280, deviceScreenSize: 720x1560, deviceUDID: R58M56TTK4Z, hub: http://0.0.0.0:4723/wd/hub, javascriptEnabled: true, locationContextEnabled: false, loggingPrefs: org.openqa.selenium.logging..., networkConnectionEnabled: true, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 53, takesScreenshot: true, udid: R58M56TTK4Z, viewportRect: {height: 1370, left: 0, top: 53, width: 720}, warnings: {}, webStorageEnabled: false}
+Session ID: 7078f8bc-df49-4060-b6fa-269d91717de3
+*** Element info: {Using=id, value=com.duolingo:id/homeMessageSecondaryButton}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4IP37R9', ip: '10.1.19.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4IP37R9', ip: '10.1.19.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: , appActivity: com.duolingo.app.LoginActivity, appPackage: com.duolingo, automationName: UiAutomator2, databaseEnabled: false, desired: {app: , appActivity: com.duolingo.app.LoginActivity, appPackage: com.duolingo, automationName: UiAutomator2, deviceName: SM-A205F, hub: http://0.0.0.0:4723/wd/hub, loggingPrefs: {}, platformName: android, platformVersion: 10, udid: R58M56TTK4Z}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-A205F, deviceName: R58M56TTK4Z, deviceScreenDensity: 280, deviceScreenSize: 720x1560, deviceUDID: R58M56TTK4Z, hub: http://0.0.0.0:4723/wd/hub, javascriptEnabled: true, locationContextEnabled: false, loggingPrefs: org.openqa.selenium.logging..., networkConnectionEnabled: true, pixelRatio: 1.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 53, takesScreenshot: true, udid: R58M56TTK4Z, viewportRect: {height: 1370, left: 0, top: 53, width: 720}, warnings: {}, webStorageEnabled: false}
+Session ID: 7078f8bc-df49-4060-b6fa-269d91717de3
+*** Element info: {Using=id, value=com.duolingo:id/homeMessageSecondaryButton}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4IP37R9', ip: '10.1.19.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:69)&#13;
+io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+biz.common.BtnHM.click(BtnHM.java:12)&#13;
+biz.steps.serenity.loginAppEndUserStep.clickBtnHM(loginAppEndUserStep.java:38)&#13;
+biz.steps.loginAppDefStep.I_tap_on_homemassage_button(loginAppDefStep.java:51)&#13;
+✽.I tap on homemassage button(src/test/resources/features/login.feature:10)&#13;
+</system-err></testcase></testsuite>
