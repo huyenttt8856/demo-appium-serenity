@@ -48,8 +48,8 @@ public class loginAppDefStep {
 	
 	@And("I tap on homemassage button")
 	public void I_tap_on_homemassage_button() {
-		endUser.clickBtnHM();
-		System.out.println("tap on homemassage button");
+		endUser.clickBtnHomeMessage();
+		System.out.println("tap on homemessage button");
 	}
 	@Then("It will display homescreen")
 	public void It_will_display_homescreen() {

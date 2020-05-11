@@ -1,41 +1,30 @@
 package biz.steps.serenity;
 
-import biz.common.BtnHM;
-import biz.common.BtnLogin;
-import biz.common.BtnSignin;
-import biz.common.CommonPageObject;
-import biz.common.Email;
-import biz.common.Password;
-
+import biz.common.LoginPages;
 public class loginAppEndUserStep {
-	CommonPageObject common;
-	BtnLogin btnlogin = new BtnLogin(); 
-	Email email;
-	Password password;
-	BtnSignin btnsignin;
-	BtnHM btnHome = new BtnHM();
+	LoginPages login;
 	public void clickBtnLogin() {
-		btnlogin.click();
+		login.clickBtnLogin();
 	}
 
 	public void putinEmail(String email) {
-		this.email.input(email);
+		login.inputEmail(email);
 	}
 
 	public void putinPass(String password) {
 		// TODO Auto-generated method stub
-		this.password.input(password);
+		login.inputPassword(password);
 						
 	}
 
 	public void clickBtnSignin() {
 		// TODO Auto-generated method stub
-		btnsignin.click();
+		login.clickBtnSignin();
 	}
 
-	public void clickBtnHM() {
+	public void clickBtnHomeMessage() {
 		// TODO Auto-generated method stub
-		btnHome.click();
+		login.clickBtnHomeMessage();;
 	}
 	
 }
